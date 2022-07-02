@@ -1,0 +1,31 @@
+/*#navbar{
+  flex-direction: column;
+  height: 150px;
+  display: flex;
+  position: relative;
+  background: linear-gradient(#ff9900, #ff5e73);
+  background-size: 0cm;
+  font-size: 0.5rem
+}
+
+.logo {
+  margin: 12px 10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+h3{
+    font-size: small;
+    font-style: italic;
+    text-align: left;
+    margin-left: 50px;
+    padding-top: 0px;
+  }
+
+.nav-right ul li a {
+    font-size: 1rem;
+}
